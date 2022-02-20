@@ -1,6 +1,15 @@
 External repository for Bitcoin Core related maintenance tools.
 
 github-merge
+
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
 ------------
 
 A small script to automate merging pull-requests securely and sign them with GPG.
