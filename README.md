@@ -402,3 +402,10 @@ Most of the columns are self-explanatory, except for:
 Left-click on a PR number to show details in a web browser.
 
 The program can be exited by pressing <kbd>ESC</kbd> or <kbd>Ctrl-C</kbd>.
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
